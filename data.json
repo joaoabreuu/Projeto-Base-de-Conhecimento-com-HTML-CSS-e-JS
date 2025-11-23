@@ -1,0 +1,302 @@
+[
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset tipado estaticamente da linguagem JavaScript que compila para JavaScript puro.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Frontend",
+      "Backend",
+      "Tipagem Estática"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript declarativa, eficiente e flexível para construir interfaces de usuário (UI).",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "Biblioteca",
+      "Frontend",
+      "UI/UX",
+      "Componentes"
+    ]
+  },
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Uma linguagem de programação compilada, desenvolvida pelo Google, focada em performance e concorrência.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Backend",
+      "Concorrência",
+      "Sistemas"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Um ambiente de execução JavaScript assíncrono e orientado a eventos construído no motor V8 do Chrome.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "Runtime",
+      "Backend",
+      "Assíncrono",
+      "Servidor"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Um banco de dados NoSQL orientado a documentos, conhecido por sua flexibilidade e escalabilidade horizontal.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "Banco de Dados",
+      "NoSQL",
+      "Documentos",
+      "Escalabilidade"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Um sistema de gerenciamento de banco de dados objeto-relacional (ORDBMS) avançado e de código aberto.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "Banco de Dados",
+      "SQL",
+      "Open Source",
+      "Relacional"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Uma plataforma para desenvolver, enviar e executar aplicações dentro de contêineres virtualizados.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "DevOps",
+      "Containers",
+      "Virtualização",
+      "Ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Um sistema de orquestração de contêineres de código aberto para automatizar o deploy, dimensionamento e gestão de aplicações.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "DevOps",
+      "Orquestração",
+      "Cloud",
+      "Containers"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo de JavaScript para construir interfaces de usuário interativas e aplicações de página única (SPA).",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "Framework",
+      "Frontend",
+      "SPA",
+      "Reatividade"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Um framework React para produção que oferece renderização do lado do servidor (SSR), geração estática e otimizações.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "Framework",
+      "Full-Stack",
+      "React",
+      "SSR"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Uma linguagem de programação que foca em segurança de memória, velocidade e concorrência, ideal para sistemas de baixo nível.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Sistemas",
+      "Segurança",
+      "Performance"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Uma ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar infraestruturas usando arquivos de configuração.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "DevOps",
+      "IaC",
+      "Cloud",
+      "Automação"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Um serviço de computação serverless da Amazon Web Services que permite executar código sem provisionar ou gerenciar servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "Cloud Computing",
+      "Serverless",
+      "FaaS",
+      "AWS"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Uma linguagem de programação estaticamente tipada que roda na JVM (Java Virtual Machine), amplamente utilizada para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Mobile",
+      "Backend",
+      "Android"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Um kit de desenvolvimento de UI de código aberto do Google para construir aplicações compiladas nativamente para mobile, web e desktop a partir de uma única base de código.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "Framework",
+      "Mobile",
+      "Cross-Platform",
+      "UI/UX"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Uma linguagem de consulta e manipulação de dados para APIs, e um runtime para cumprir essas consultas com seus dados existentes.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "API",
+      "Linguagem de Consulta",
+      "Backend",
+      "Comunicação"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Um store de estrutura de dados em memória, open source, usado como cache, banco de dados e message broker.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "Banco de Dados",
+      "Cache",
+      "NoSQL",
+      "In-Memory"
+    ]
+  },
+  {
+    "nome": "C#",
+    "descricao": "Uma linguagem de programação moderna, orientada a objetos, desenvolvida pela Microsoft, frequentemente usada com o framework .NET.",
+    "data_criacao": "2000",
+    "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/",
+    "tags": [
+      "Linguagem de Programação",
+      "Backend",
+      ".NET",
+      "Microsoft"
+    ]
+  },
+  {
+    "nome": "Sass",
+    "descricao": "Um pré-processador de CSS que estende o CSS com recursos como variáveis, aninhamento e mixins, facilitando o desenvolvimento de estilos.",
+    "data_criacao": "2006",
+    "link": "https://sass-lang.com/",
+    "tags": [
+      "Frontend",
+      "Estilização",
+      "Pré-processador",
+      "CSS"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Uma plataforma de streaming de eventos distribuída que permite publicar, assinar, armazenar e processar fluxos de registros em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "Streaming",
+      "Mensageria",
+      "Backend",
+      "Distribuição"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Um servidor de automação open source que suporta a construção, deploy e automação de qualquer projeto.",
+    "data_criacao": "2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "CI/CD",
+      "DevOps",
+      "Automação",
+      "Ferramenta"
+    ]
+  },
+  {
+    "nome": "Scrum",
+    "descricao": "Um framework de gerenciamento de projetos que ajuda equipes a responderem de forma adaptativa e eficiente a mudanças.",
+    "data_criacao": "1990",
+    "link": "https://www.scrum.org/",
+    "tags": [
+      "Metodologia",
+      "Agile",
+      "Gerenciamento de Projetos",
+      "Framework"
+    ]
+  },
+  {
+    "nome": "Nginx",
+    "descricao": "Um servidor web de alto desempenho, proxy reverso, balanceador de carga e proxy HTTP de cache.",
+    "data_criacao": "2004",
+    "link": "https://www.nginx.com/",
+    "tags": [
+      "Servidor Web",
+      "DevOps",
+      "Performance",
+      "Proxy Reverso"
+    ]
+  },
+  {
+    "nome": "Erlang",
+    "descricao": "Uma linguagem de programação funcional e concorrente, projetada para construir sistemas distribuídos altamente disponíveis.",
+    "data_criacao": "1986",
+    "link": "https://www.erlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Concorrência",
+      "Sistemas",
+      "Telecomunicações"
+    ]
+  },
+  {
+    "nome": "Neo4j",
+    "descricao": "Um sistema de gerenciamento de banco de dados nativo de grafo, projetado para armazenar e consultar relações complexas de dados.",
+    "data_criacao": "2007",
+    "link": "https://neo4j.com/",
+    "tags": [
+      "Banco de Dados",
+      "NoSQL",
+      "Grafo",
+      "Relacionamentos"
+    ]
+  }
+]
